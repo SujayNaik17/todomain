@@ -13,7 +13,7 @@ export default function Todoinput(props){
                 }}  placeholder="Enter Todo" />
                 <button onClick={()=> {
                     handleinput(todovalue)
-                    setTodovalue=('')
+                    setTodovalue=('');
                 }}>Add Todo</button>
                 
             </header>
