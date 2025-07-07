@@ -1,0 +1,6 @@
+# Placeholder for TF-IDF vectorizer
+# This file will be generated after running the training notebook
+# The actual vectorizer will be saved using joblib.dump()
+
+print("This is a placeholder for the TF-IDF vectorizer.")
+print("Run the training notebook (2_training.ipynb) to generate the actual vectorizer file.")

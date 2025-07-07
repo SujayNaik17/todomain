@@ -1,0 +1,6 @@
+review_id,review_text_clean,sentiment_label,confidence_score
+1,"product amazing love much",positive,0.95
+2,"not expected quality better",negative,0.78
+3,"decent product price works expected",neutral,0.65
+4,"terrible experience not recommend",negative,0.92
+5,"outstanding quality fast shipping",positive,0.89

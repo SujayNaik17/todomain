@@ -1,0 +1,6 @@
+# Placeholder for trained sentiment analysis model
+# This file will be generated after running the training notebook
+# The actual model will be saved using joblib.dump()
+
+print("This is a placeholder for the trained sentiment analysis model.")
+print("Run the training notebook (2_training.ipynb) to generate the actual model file.")
